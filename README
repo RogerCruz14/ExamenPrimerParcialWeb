@@ -1,0 +1,13 @@
+Examen del primer parcial
+
+Micro Proyecto de Integración aplicando Node y Express. (10 puntos)
+
+    Considere lo siguiente para desarrollar su ejercicio:
+
+        • El código debe ser subido en algún repositorio GIT,
+        • Publicar un video explicativo de los proyectos ejecutados y funcionando (entre 2 y 4
+            minutos de duración), mostrando su funcionabilidad, y explicando generalidades en el código del mismo.
+        • Definir los siguientes proyectos: (El número de proyectos puede variar según su análisis)
+            • Proyecto que publica sitio web estático.
+            • Proyecto Cron Job.
+            • Proyecto que publica servicio REST.
